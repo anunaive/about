@@ -1,17 +1,17 @@
 inc:
   # Blog Information
-  title:        "Jekyll Incorporated"
-  subtitle:     "Modern Jekyll based blog for companies"
+  title:        "Anurag Pal"
+  subtitle:     "A brief info about me"
   cover_image:  blog-cover.jpg
   logo:         logo.png
   
   # Company information
-  company:      Incorporated
-  url:          http://sendtoinc.com/
-  facebook:     sendtoinc
-  twitter:      sendtoinc
-  gplus:        '101183822199340201470'
-  about_link:   https://sendtoinc.com/about/
+  company:      Dhoomshiva
+  url:          http://www.anunaive.github.io/about
+  facebook:     
+  twitter:      Anurag_Pal_
+  gplus:        
+  about_link:   
   
   # Product Information
   product_link: http://incorporated.sendtoinc.com/
@@ -24,7 +24,7 @@ inc:
   
   # Sharing settings
   sharing:
-    twitter:    false
+    twitter:    true
     facebook:   false
     gplus:      false
     hn:         false
